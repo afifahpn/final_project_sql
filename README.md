@@ -8,7 +8,7 @@
 
 
 # Business Rules:
-1.Setiap user dapat menawarkan lebih dari satu produk mobil bekasnya.
+1. Setiap user dapat menawarkan lebih dari satu produk mobil bekasnya.
 2. user wajib mengisi nama, kontak, dan domisili lokasi.
 3. User menawarkan produknya melalui iklan yang berisikan judul, detail informasi produk yang ditawarkan, serta kontak penjual.
 4. Detail informasi dari iklan tersebut adalah sebagai berrikut:
