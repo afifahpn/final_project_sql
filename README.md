@@ -12,11 +12,11 @@
 2. user wajib mengisi nama, kontak, dan domisili lokasi.
 3. User menawarkan produknya melalui iklan yang berisikan judul, detail informasi produk yang ditawarkan, serta kontak penjual.
 4. Detail informasi dari iklan tersebut adalah sebagai berrikut:
- - merek mobil
- - Model
- - Jenis body mobil
- - Tipe mobil: manual atau automatic
- - Tahun pembuatan mobil
+   - merek mobil
+   - Model
+   - Jenis body mobil
+   - Tipe mobil: manual atau automatic
+   - Tahun pembuatan mobil
 5. Setiap user bisa mencari mobil yg ditawarkan berdasarkan lokasi user penjual, merk mobil, dan jenis body mobil.
 6. Jika calon pembeli tertarik terhadap sebuah mobil, ia dapat menawar (bid) harga produk.
 
